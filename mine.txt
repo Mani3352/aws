@@ -1,1 +1,8 @@
+<<<<<<< Updated upstream
 hello hai this is  mani
+=======
+hello hai this is mani
+
+
+mani amn aia ahjabg
+>>>>>>> Stashed changes
