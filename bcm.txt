@@ -1,1 +1,7 @@
+<<<<<<< Updated upstream
 bhadrachalam to sarapaka and palvoncha
+=======
+bhadrachalam to sarapaka
+
+manikanta and his friends are from bhadrachalam
+>>>>>>> Stashed changes
